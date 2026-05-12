@@ -63,7 +63,7 @@ in your browser.
 
 - **Homepage**
 
-![Homepage](images/homepage.png)
+![Homepage](images/hero.png)
 
 ---
 
